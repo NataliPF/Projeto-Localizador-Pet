@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.pet-info, .owner-info {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+strong {
+    color: #555;
+}
+
+#map {
+    height: 300px;
+    width: 100%;
+}
